@@ -1,4 +1,4 @@
-package basic_classes.duck;
+package strategy.duck;
 
 public class RedheadDuck extends Duck {
 

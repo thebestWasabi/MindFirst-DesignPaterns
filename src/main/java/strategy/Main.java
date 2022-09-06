@@ -1,6 +1,8 @@
-import basic_classes.duck.*;
-import basic_classes.flyable.FlyRocketPowered;
-import basic_classes.quackable.ImitationQuacking;
+package strategy;
+
+import strategy.duck.*;
+import strategy.flyable.FlyRocketPowered;
+import strategy.quackable.ImitationQuacking;
 
 public class Main {
 

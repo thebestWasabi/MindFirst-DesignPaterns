@@ -1,4 +1,4 @@
-package basic_classes.flyable;
+package strategy.flyable;
 
 public class FlyWithWings implements FlyBehavior {
 

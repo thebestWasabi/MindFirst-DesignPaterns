@@ -1,7 +1,7 @@
-package basic_classes.duck;
+package strategy.duck;
 
-import basic_classes.flyable.FlyWithWings;
-import basic_classes.quackable.Quack;
+import strategy.flyable.FlyWithWings;
+import strategy.quackable.Quack;
 
 public class MallardDuck extends Duck {
 

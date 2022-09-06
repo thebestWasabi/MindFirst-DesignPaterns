@@ -1,4 +1,4 @@
-package basic_classes.quackable;
+package strategy.quackable;
 
 public interface QuackBehavior {
 

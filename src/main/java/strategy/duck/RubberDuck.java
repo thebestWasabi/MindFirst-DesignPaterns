@@ -1,7 +1,7 @@
-package basic_classes.duck;
+package strategy.duck;
 
-import basic_classes.flyable.FlyNoWay;
-import basic_classes.quackable.Squeak;
+import strategy.flyable.FlyNoWay;
+import strategy.quackable.Squeak;
 
 public class RubberDuck extends Duck {
 
