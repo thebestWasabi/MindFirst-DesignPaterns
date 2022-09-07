@@ -1,4 +1,4 @@
-package strategy.quackable;
+package headfirst_patterns.strategy.quackable;
 
 public class ImitationQuacking implements QuackBehavior {
 

@@ -1,4 +1,4 @@
-package observer;
+package headfirst_patterns.observer;
 
 public interface Subject {
     public void registerObserver(Observer o);

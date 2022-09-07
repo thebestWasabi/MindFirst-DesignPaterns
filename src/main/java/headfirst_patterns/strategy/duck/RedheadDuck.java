@@ -1,4 +1,4 @@
-package strategy.duck;
+package headfirst_patterns.strategy.duck;
 
 public class RedheadDuck extends Duck {
 

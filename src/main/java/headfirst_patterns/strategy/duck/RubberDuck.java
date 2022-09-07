@@ -1,7 +1,7 @@
-package strategy.duck;
+package headfirst_patterns.strategy.duck;
 
-import strategy.flyable.FlyNoWay;
-import strategy.quackable.Squeak;
+import headfirst_patterns.strategy.flyable.FlyNoWay;
+import headfirst_patterns.strategy.quackable.Squeak;
 
 public class RubberDuck extends Duck {
 

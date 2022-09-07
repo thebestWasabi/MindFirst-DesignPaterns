@@ -1,8 +1,8 @@
-package strategy;
+package headfirst_patterns.strategy;
 
-import strategy.duck.*;
-import strategy.flyable.FlyRocketPowered;
-import strategy.quackable.ImitationQuacking;
+import headfirst_patterns.strategy.duck.*;
+import headfirst_patterns.strategy.flyable.FlyRocketPowered;
+import headfirst_patterns.strategy.quackable.ImitationQuacking;
 
 public class Main {
 

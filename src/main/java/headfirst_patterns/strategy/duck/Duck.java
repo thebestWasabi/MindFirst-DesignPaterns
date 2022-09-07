@@ -1,7 +1,7 @@
-package strategy.duck;
+package headfirst_patterns.strategy.duck;
 
-import strategy.flyable.FlyBehavior;
-import strategy.quackable.QuackBehavior;
+import headfirst_patterns.strategy.flyable.FlyBehavior;
+import headfirst_patterns.strategy.quackable.QuackBehavior;
 
 public abstract class Duck {
 

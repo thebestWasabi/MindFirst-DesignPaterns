@@ -1,4 +1,4 @@
-package strategy.flyable;
+package headfirst_patterns.strategy.flyable;
 
 public interface FlyBehavior {
 

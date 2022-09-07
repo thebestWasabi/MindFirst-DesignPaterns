@@ -1,7 +1,7 @@
-package strategy.duck;
+package headfirst_patterns.strategy.duck;
 
-import strategy.flyable.FlyWithWings;
-import strategy.quackable.Quack;
+import headfirst_patterns.strategy.flyable.FlyWithWings;
+import headfirst_patterns.strategy.quackable.Quack;
 
 public class MallardDuck extends Duck {
 

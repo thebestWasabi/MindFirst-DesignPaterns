@@ -1,4 +1,4 @@
-package observer;
+package headfirst_patterns.observer;
 
 public class CurrentConditionsDisplay implements Observer, DisplayElement {
 
