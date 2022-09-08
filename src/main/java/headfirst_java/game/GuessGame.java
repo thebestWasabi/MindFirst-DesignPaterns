@@ -59,8 +59,6 @@ public class GuessGame {
             } else {
                 System.out.println("Игроки должны попробовать еще раз");
             }
-
         }
     }
-
 }
