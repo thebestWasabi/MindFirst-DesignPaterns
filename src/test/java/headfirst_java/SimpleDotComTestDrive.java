@@ -1,5 +1,7 @@
 package headfirst_java;
 
+import headfirst_java.simpedot_com.SimpleDotCom;
+
 public class SimpleDotComTestDrive {
 
     public static void main(String[] args) {

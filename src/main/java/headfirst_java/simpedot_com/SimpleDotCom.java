@@ -1,4 +1,4 @@
-package headfirst_java;
+package headfirst_java.simpedot_com;
 
 public class SimpleDotCom {
 

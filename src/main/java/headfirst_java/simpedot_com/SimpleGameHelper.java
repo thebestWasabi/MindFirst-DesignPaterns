@@ -1,12 +1,12 @@
-package headfirst_java;
+package headfirst_java.simpedot_com;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class GameHelper {
+public class SimpleGameHelper {
 
-    public String getUserInput(String prompt) {
+    public String getUsersInput(String prompt) {
         String inputLine = null;
         System.out.println(prompt + " ");
 

@@ -1,9 +1,9 @@
-package headfirst_java;
+package headfirst_java.simpedot_com;
 
 public class SimpleDotComGame {
 
     public static void main(String[] args) {
-        GameHelper helper = new GameHelper();
+        SimpleGameHelper help = new SimpleGameHelper();
         SimpleDotCom theDotCom = new SimpleDotCom();
 
         int numOfTurn = 0;
@@ -14,7 +14,7 @@ public class SimpleDotComGame {
         theDotCom.setLocationCells(location);
 
         while (isAlive == true) {
-            String guess = helper.getUserInput("Введите число");
+            String guess = help.getUsersInput("Введите число");
             String result = theDotCom.checkYourSelf(guess);
             numOfTurn++;
 
